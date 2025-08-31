@@ -1,4 +1,4 @@
-# ✨ Refyne – AI Image Enhancer
+# ✨ Refyne – **AI Image Enhancer**
 
 <br>
 
