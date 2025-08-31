@@ -1,12 +1,44 @@
-# React + Vite
+# ✨ Refyne – AI Image Enhancer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Refyne is a simple React + Vite web app that allows you to **upload an image, enhance it automatically, preview the result, and download the refined version**.  
+Built with ⚡ **React**, 🎨 **Tailwind CSS**, and deployed on 🌐 **Vercel**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 📤 Upload images instantly  
+- 🤖 Enhance images using API  
+- 👀 Preview before & after images side by side  
+- ⬇️ Download the enhanced image  
+- 🎨 Clean & modern UI with Tailwind  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Demo
+👉 [Live Demo on Vercel](https://refyne-psi.vercel.app/)  
+ 
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React (Vite) + Tailwind CSS  
+- **Hosting:** Vercel  
+- **API:** Custom Image Enhancement API  
+
+---
+
+## 📂 Project Structure
+
+Refyne/
+├── public/ # Static assets
+├── src/
+│ ├── components/ # ImageUpload, ImagePreview, etc.
+│ ├── utils/ # API helper functions
+│ ├── App.jsx # Main app entry
+│ └── main.jsx # React DOM entry point
+├── package.json
+├── vite.config.js
+└── README.md
+
+
+**VITE_API_KEY=your_api_key_here**
