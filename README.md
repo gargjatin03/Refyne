@@ -1,4 +1,4 @@
-# ✨ Refyne – **AI Image Enhancer**
+# ✨ Refyne – AI Image Enhancer
 
 <br>
 
@@ -37,7 +37,7 @@ Refyne is a simple React + Vite web app that allows you to **upload an image, en
   - **README.md**
 
 
-## 📸 Enhance Your Image :)
+## 📸 Enhance Your Image 😄
 
 <p>
   <a href="https://refyne-psi.vercel.app/">
