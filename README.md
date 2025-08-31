@@ -36,12 +36,13 @@ Refyne is a simple React + Vite web app that allows you to **upload an image, en
   - **vite.config.js**
   - **README.md**
 
+---
 
-## 📸 Enhance Your Image 😄
+## 📸 Enhance Your Image : )
 
 <p>
   <a href="https://refyne-psi.vercel.app/">
-    <img src="https://img.shields.io/badge/✨%20Click%20Here-blueviolet?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Click%20Here-blueviolet?style=for-the-badge" />
   </a>
 </p>
 
